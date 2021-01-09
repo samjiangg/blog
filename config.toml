@@ -1,0 +1,4 @@
+baseURL = "samjiangg.github.io"
+languageCode = "en-us"
+title = "Hello World!"
+theme = "hugo-PaperMod"
